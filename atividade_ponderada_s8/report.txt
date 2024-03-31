@@ -1,0 +1,35 @@
+Informação: Processando o símbolo 'D1:'.
+Informação: Processando o símbolo 'Q1:Package_TO_SOT_THT:TO-18-3'.
+Informação: Processando o símbolo 'Q2:Package_TO_SOT_THT:TO-18-3'.
+Informação: Processando o símbolo 'U2:RPi_Pico:RPi_Pico_SMD_TH'.
+Q1 foi adicionado (footprint 'Package_TO_SOT_THT:TO-18-3').
+O designador de referência REF** foi trocado para Q1.
+O valor Q1 foi trocado de TO-18-3 para BC108.
+A associação do símbolo Q1 foi atualizada de  para /28af2564-8013-45f0-8f2d-ab4d4a136b71.
+Q1 campos foram atualizados.
+O nome da folha Q1 foi atualizada para 'Raiz'.
+O arquivo da folha Q1 foi atualizado para 'atividade_ponderada_s8.kicad_sch'.
+Foi atualizado Q1 filtros do footprint para 'TO?18*'.
+Adiciona rede Net-(D1-A).
+Q1 conectado pino 1 para Net-(D1-A).
+Adiciona rede Net-(D1-K).
+Q1 conectado pino 2 para Net-(D1-K).
+Adiciona rede Net-(Q1-C).
+Q1 conectado pino 3 para Net-(Q1-C).
+Q2 foi adicionado (footprint 'Package_TO_SOT_THT:TO-18-3').
+O designador de referência REF** foi trocado para Q2.
+O valor Q2 foi trocado de TO-18-3 para BC108.
+A associação do símbolo Q2 foi atualizada de  para /6f4b4ae5-6ced-4bbd-932c-78da7ea318fd.
+Q2 campos foram atualizados.
+O nome da folha Q2 foi atualizada para 'Raiz'.
+O arquivo da folha Q2 foi atualizado para 'atividade_ponderada_s8.kicad_sch'.
+Foi atualizado Q2 filtros do footprint para 'TO?18*'.
+Q2 conectado pino 3 para Net-(D1-K).
+Q2 conectado pino 2 para Net-(Q1-C).
+Adiciona rede Net-(Q2-E).
+Q2 conectado pino 1 para Net-(Q2-E).
+Erro: Não é possível adicionar D1 (nenhum footprint associado).
+Erro: Não é possível adicionar U2 (o footprint 'RPi_Pico:RPi_Pico_SMD_TH' não foi encontrado).
+
+
+Informação: Total de avisos: 0, erros: 2.
